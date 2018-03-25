@@ -1,1 +1,0 @@
-/usr/bin/c++   -g    CMakeFiles/lesson_0.dir/src/Small.cpp.o  -o lesson_0 -rdynamic 
