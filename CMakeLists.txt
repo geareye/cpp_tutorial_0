@@ -5,6 +5,8 @@ set(CMAKE_BUILD_TYPE Debug)
 
 include_directories(inc)
 
-SET (LESSON0_SOURCES	src/Small.cpp)
+SET (LESSON0_SOURCES	src/ClassesAndObjects.cpp
+			src/Person.cpp
+)
 
 add_executable(lesson_0 ${LESSON0_SOURCES})
