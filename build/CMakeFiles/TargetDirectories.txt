@@ -1,0 +1,1 @@
+/home/pi/cpp_path/learning_to_program_cpp/cpp_tutorial_0/build/CMakeFiles/lesson_0.dir

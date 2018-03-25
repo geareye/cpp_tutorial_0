@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/test.h
+stdio.h
+-
+string
+-
+cstring
+-
+stdlib.h
+-
+dirent.h
+-
+fcntl.h
+-
+assert.h
+-
+sched.h
+-
+sys/mman.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+unistd.h
+-
+
+/home/pi/cpp_path/learning_to_program_cpp/cpp_tutorial_0/src/Small.cpp
+test.h
+/home/pi/cpp_path/learning_to_program_cpp/cpp_tutorial_0/src/test.h
+iostream
+-
+string
+-
+
